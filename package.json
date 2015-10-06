@@ -1,6 +1,6 @@
 {
   "name": "karma-chai-dom",
-  "description": "Chai Jquery for Karma",
+  "description": "chai-dom for Karma",
   "keywords": [
     "karma",
     "chai",
@@ -8,7 +8,7 @@
     "testing",
     "browser-testing"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Nathan Black <nathan@nathanblack.org>",
   "main": "./index.js",
   "license": "MIT",
